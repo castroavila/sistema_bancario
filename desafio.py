@@ -1,9 +1,5 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @author	   : Manuel Castro Avila <castroavila@ic.unicamp.br>
-# @file	   	   : desafio.py
-# @created	   : 13-Jun-2025
-# @company 	   : Institute of Computing - UNICAMP - Campinas - Brazil
 
 """ """
 
